@@ -3,9 +3,9 @@
 I'm a **Computer Engineering student** passionate about **software development** and **IT support**. 
 Currently, I'm focused on becoming a **Fullstack Java Developer** while exploring modern web technologies like **React** and **Spring Boot**. I love tackling complex problems and building efficient systems.
 
-- 🌱 I’m currently learning **Back-end software Development with Java Spring Boot** and **CyberSecurity**.
+- 🌱 I’m currently learning **Spring Boot(Software development)**, **Networking && CyberSecurity**.
 - 👨‍🏫 Assistant teacher at UNLP in **Data Structures && Object-Oriented Programming subjects** (Java).
-- 👨‍🏫 Intern at **Planta Piloto EKOA-UNLP** in the Disks sanitizing and data Destruction Sector.
+- 👨‍🏫 Currently Working as **Network & telecommunication IT Support** at **FACULTAD DE INGENIERIA - UNLP** .
 - 💻 Seeking to grow in **software development** and **IT infrastructure**.
 - 📈 Always challenging myself to learn and improve.
 
