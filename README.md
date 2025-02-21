@@ -5,7 +5,7 @@ Currently, I'm focused on becoming a **Fullstack Java Developer** while explorin
 
 - 🌱 I’m currently learning **Spring Boot(Software development)**, **Networking && CyberSecurity**.
 - 👨‍🏫 Assistant teacher at UNLP in **Data Structures && Object-Oriented Programming subjects** (Java).
-- 👨‍🏫 Currently Working as **Network & telecommunication IT Support** at **FACULTAD DE INGENIERIA - UNLP** .
+- 👨‍🏫 Currently Working as **IT Support** at **FACULTAD DE INGENIERIA - UNLP** && **IT Monitoring Analyst** at **PAGO VIRTUAL DEL SUR** .
 - 💻 Seeking to grow in **software development** and **IT infrastructure**.
 - 📈 Always challenging myself to learn and improve.
 
