@@ -3,7 +3,9 @@
 I'm a **Computer Engineering student** passionate about **SOFTWARE DEVELOPMENT** and **IT INFRAESTRUCTURE**. 
 Currently, I'm focused on becoming a **Fullstack Java Developer** while exploring modern web technologies like **React** and **Spring Boot**. I love tackling complex problems and building efficient systems.
 
-![Blue Lock GIF](https://media1.tenor.com/m/yIZbhasDNm0AAAAd/blue-lock-isagi.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="300"/>
+</div>
 
 - 🌱 I’m currently learning **Spring Boot(Software development)**, **Networking && CyberSecurity**.
 - 👨‍🏫 Assistant teacher at UNLP in **Data Structures && Object-Oriented Programming subjects** (Java).
