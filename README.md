@@ -1,7 +1,7 @@
 ### 👋 Hello! I'm Francisco Estrada
 
 I'm a **Computer Engineering student** passionate about **SOFTWARE DEVELOPMENT** and **IT INFRAESTRUCTURE**. 
-Currently, I'm focused on becoming a **Fullstack Java Developer** while exploring modern web technologies like **React** and **Spring Boot**. I love tackling complex problems and building efficient systems.
+Currently, I'm focused on becoming a **Sysadmin/Devops Engineer** while exploring modern web dev technologies like **Angular** and **Spring Framework**. I love tackling complex problems and building efficient systems.
 
 <div align="center">
   <img src="https://media1.tenor.com/m/yIZbhasDNm0AAAAd/blue-lock-isagi.gif" width="300"/>
@@ -10,7 +10,7 @@ Currently, I'm focused on becoming a **Fullstack Java Developer** while explorin
 - 🌱 I’m currently learning **Spring Boot(Software development)**, **Networking && CyberSecurity**.
 - 👨‍🏫 Assistant teacher at UNLP in **Data Structures && Object-Oriented Programming subjects** (Java).
 - 👨‍🏫 Currently Working as **IT Support** at **FACULTAD DE INGENIERIA - UNLP** && **IT Monitoring Analyst** at **PAGO VIRTUAL DEL SUR** .
-- 💻 Seeking to grow in **software development** and **IT infrastructure**.
+- 💻 Striving to grow in Technology by crafting efficient solutions and solving complex problems with creativity and precision.
 - 📈 Always challenging myself to learn and improve.
 
 Feel free to explore my projects or reach out for collaboration!
