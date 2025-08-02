@@ -1,7 +1,7 @@
 ### 👋 Hello! I'm Francisco Estrada
 
-I'm a **Computer Engineering student** passionate about **SOFTWARE DEVELOPMENT** and **IT INFRAESTRUCTURE**. 
-Currently, I'm focused on becoming a **Sysadmin/Devops Engineer** while exploring modern web dev technologies like **Angular** and **Spring Framework**. I love tackling complex problems and building efficient systems.
+I'm a **Computer Engineering student** passionate about **SOFTWARE DEVELOPMENT, Automatization** and **IT INFRAESTRUCTURE**. 
+Currently, I'm focused on becoming a **Devops Engineer && System Architect** while exploring modern web dev technologies like **Angular** and **Spring Framework**. I love tackling complex problems and building efficient systems.
 
 <div align="center">
   <img src="https://media1.tenor.com/m/yIZbhasDNm0AAAAd/blue-lock-isagi.gif" width="300"/>
