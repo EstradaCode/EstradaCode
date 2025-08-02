@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Francisco Estrada
 
-I'm a **Computer Engineering student** passionate about **SOFTWARE DEVELOPMENT, Automatization** and **IT INFRAESTRUCTURE**. 
+I'm a **Computer Engineering student** passionate about **SOFTWARE DEVELOPMENT, Automation** and **IT INFRAESTRUCTURE**. 
 Currently, I'm focused on becoming a **Devops Engineer && System Architect** while exploring modern web dev technologies like **Angular** and **Spring Framework**. I love tackling complex problems and building efficient systems.
 
 <div align="center">
