@@ -9,7 +9,7 @@ Currently, I'm focused on becoming a **Devops Engineer && System Architect** whi
 
 - 🌱 I’m currently learning **Spring Boot(Software development)**, **Networking && CyberSecurity**.
 - 👨‍🏫 Assistant teacher at UNLP in **Data Structures && Object-Oriented Programming subjects** (Java).
-- 👨‍🏫 Currently Working as **IT Support** at **FACULTAD DE INGENIERIA - UNLP** && **IT Monitoring Analyst** at **PAGO VIRTUAL DEL SUR** .
+- 👨‍🏫 Currently Working as **SysAdmin/Devops Engineer Jr** at **PAGO VIRTUAL DEL SUR** .
 - 💻 Striving to grow in Technology by crafting efficient solutions and solving complex problems with creativity and precision.
 - 📈 Always challenging myself to learn and improve.
 
