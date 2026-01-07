@@ -1,13 +1,13 @@
 ### 👋 Hello! I'm Francisco Estrada
 
 I'm a **Computer Engineering student** passionate about **SOFTWARE DEVELOPMENT, Automation** and **IT INFRAESTRUCTURE**. 
-Currently, I'm focused on becoming a **Devops Engineer && System Architect** while exploring modern web dev technologies like **Angular** and **Spring Framework**. I love tackling complex problems and building efficient systems.
+Currently, I'm focused on becoming a **System Architect** while exploring modern technologies for Software LifeCycle. I love tackling complex problems and building efficient systems.
 
 <div align="center">
   <img src="https://media1.tenor.com/m/yIZbhasDNm0AAAAd/blue-lock-isagi.gif" width="300"/>
 </div>
 
-- 🌱 I’m currently learning **Spring Boot(Software development)**, **Networking && CyberSecurity**.
+- 🌱 I’m currently learning **Spring Boot(Software development)**, **Networking && Cloud Computing(AWS)**.
 - 👨‍🏫 Assistant teacher at UNLP in **Data Structures && Object-Oriented Programming subjects** (Java).
 - 👨‍🏫 Currently Working as **SysAdmin/Devops Engineer Jr** at **PAGO VIRTUAL DEL SUR** .
 - 💻 Striving to grow in Technology by crafting efficient solutions and solving complex problems with creativity and precision.
@@ -47,6 +47,9 @@ Feel free to explore my projects or reach out for collaboration!
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
